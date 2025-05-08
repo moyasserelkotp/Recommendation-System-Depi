@@ -1,4 +1,5 @@
 # 🎬 Intelligent Movie Recommendation System
+![recommendation_system](https://github.com/user-attachments/assets/2ce1b66d-4764-4109-9c9e-2aaee3ce41bf)
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
