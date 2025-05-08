@@ -1,0 +1,38 @@
+# ------------------------------
+# 📦 Data Handling & Processing
+# ------------------------------
+pandas>=2.0.0
+numpy>=1.21.0
+tqdm>=4.0.0
+requests>=2.26.0
+
+# ------------------------------
+# 🔍 Exploratory Data Analysis
+# ------------------------------
+pandas-profiling>=3.0.0  # Uncomment if needed
+wordcloud>=1.8.0
+
+# ------------------------------
+# 📊 Visualization
+# ------------------------------
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+ipython>=8.0.0
+
+# ------------------------------
+# 🧠 Machine Learning (Scikit-learn)
+
+# ------------------------------
+scikit-learn>=1.0.0
+
+# ------------------------------
+# 📚 Recommender Systems (Surprise)
+# ------------------------------
+scikit-surprise>=1.1.0
+
+# ------------------------------
+# 🤖 Deep Learning (TensorFlow/Keras)
+# ------------------------------
+tensorflow>=2.10.0
+tensorflow-recommenders>=0.7.0  # If using TFRS
