@@ -176,8 +176,23 @@ To use this:
 The file uses standard GitHub Markdown formatting and includes all essential sections for an open-source project while maintaining a professional appearance.
 >>>>>>> a78ce00 (Initial commit)
 
-## 🤝 test
-https://envtkxbigkxnstadlffmmu.streamlit.app/
-https://algorithm-kxs7pvnvjvp5wwfktjo7gq.streamlit.app/
-https://ff81-197-120-191-13.ngrok-free.app/
+## 🌐 Live Deployments
+
+Try the app on these platforms:
+
+1. **Dashboard Deployment**:  
+   [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://envtkxbigkxnstadlffmmu.streamlit.app/)  
+   (May have data loading issues - see troubleshooting below)
+
+2. **Statistics Dashboard Deployment**:  
+   [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://algorithm-kxs7pvnvjvp5wwfktjo7gq.streamlit.app/)
+
+3. **Model Tunnel**:  
+   [Ngrok Tunnel](https://ff81-197-120-191-13.ngrok-free.app/)  
+   (For development purposes only)
+
+   ![photo_2025-05-14_01-12-11](https://github.com/user-attachments/assets/622ffe0c-b8fb-4687-8aff-f246894da6dc)
+
+![photo_2025-05-14_01-14-55](https://github.com/user-attachments/assets/475ae6f6-0d2b-44e4-923c-2ca99a406a93)
+
 
